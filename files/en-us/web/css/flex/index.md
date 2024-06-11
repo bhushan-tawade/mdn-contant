@@ -222,6 +222,7 @@ This example shows how a flex item with `flex: auto` grows to absorb any free sp
 
 #flex-initial {
   border: 1px solid #000;
+  flex: initial;
 }
 ```
 
